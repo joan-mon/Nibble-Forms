@@ -1,7 +1,7 @@
 <?php
 namespace Nibble\NibbleForms\Field;
 
-class TextArea extends Text
+class Textarea extends Text
 {
 
     public function __construct($label, $attributes)
